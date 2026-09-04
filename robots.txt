@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /referral-link
+
+Sitemap: https://casino-online-stranieri-non-aams.it.com/sitemap.xml
